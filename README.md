@@ -1,4 +1,4 @@
-# Intelligent Decision Support System for Optimal Football Player Recruitment
+# Intelligent Decision Support System (IDSS) for Optimal Player Selection in Team Building (Football)
 This repository contains the code and report for an Intelligent Decision Support System (IDSS) that supports data‑driven player recruitment and team building in professional football. The system combines dual deep learning models with a three‑tier architecture to rank players by intrinsic performance and predict their market value, helping stakeholders identify undervalued transfer targets under tactical and financial constraints.
 The system features a **Dual-Model Architecture** that acts as an objective "Second Opinion" for sporting directors:
 1.  **Performance Model:** Predicts a player's objective quality (0-100 Rating) based on 30+ technical stats.
