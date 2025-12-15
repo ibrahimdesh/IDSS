@@ -9,3 +9,7 @@ The system features a **Dual-Model Architecture** that acts as an objective "Sec
 * **Data Pipeline:** Robust ETL process handling duplication, skewness (Log-Transform), and categorical encoding.
 * **Value Delta Analysis:** Automatically calculates the difference between *Actual Market Value* and *Predicted Fair Value*.
 * **Decision Dashboard:** A user-friendly interface (Gradio) for non-technical stakeholders to filter candidates by Budget, Role, and Age.
+
+## 🖥️ Live Demo
+You can try the Intelligent Decision Support System directly in your browser via Hugging Face Spaces.
+👉 **Live app:** https://huggingface.co/spaces/MUmairAB/football-player-idss
