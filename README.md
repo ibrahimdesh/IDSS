@@ -13,3 +13,8 @@ The system features a **Dual-Model Architecture** that acts as an objective "Sec
 ## 🖥️ Live Demo
 You can try the Intelligent Decision Support System directly in your browser via Hugging Face Spaces.
 👉 **Live app:** https://huggingface.co/spaces/MUmairAB/football-player-idss
+
+
+
+## 📖 Report
+https://drive.google.com/file/d/1fHUFmcecCSyo0XbT8o2PI0YPLSCKXRfe/view?usp=share_link
